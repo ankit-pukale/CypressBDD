@@ -1,0 +1,1 @@
+.oxd-alert-content-text
